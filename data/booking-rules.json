@@ -1,0 +1,90 @@
+{
+    "generalRules": [
+        {
+            "title": "Age Requirement",
+            "description": "Clients must be 21 years or older with valid ID"
+        },
+        {
+            "title": "Professional Service Only",
+            "description": "Our companions provide professional social accompaniment services only"
+        },
+        {
+            "title": "Advance Booking",
+            "description": "Minimum 24 hours advance booking required"
+        },
+        {
+            "title": "Payment Terms",
+            "description": "50% deposit required upon booking confirmation"
+        },
+        {
+            "title": "Cancellation Policy",
+            "description": "24 hours notice required for cancellation to receive refund"
+        }
+    ],
+    "bookingProcess": [
+        {
+            "step": 1,
+            "title": "Select Companion",
+            "description": "Browse our verified companions and select your preferred match"
+        },
+        {
+            "step": 2,
+            "title": "Fill Booking Form",
+            "description": "Complete the booking form with event details and personal information"
+        },
+        {
+            "step": 3,
+            "title": "WhatsApp Confirmation",
+            "description": "Receive booking confirmation and payment instructions via WhatsApp"
+        },
+        {
+            "step": 4,
+            "title": "Payment",
+            "description": "Complete payment to secure your booking"
+        },
+        {
+            "step": 5,
+            "title": "Final Confirmation",
+            "description": "Receive final confirmation with companion contact details"
+        }
+    ],
+    "pricing": [
+        {
+            "duration": "2 Hours",
+            "price": "Starting from Rp 150k",
+            "description": "Perfect for dinner dates or short events"
+        },
+        {
+            "duration": "4 Hours",
+            "price": "Starting from Rp 250k",
+            "description": "Ideal for parties or business events"
+        },
+        {
+            "duration": "6 Hours",
+            "price": "Starting from Rp 350k",
+            "description": "Great for weddings or long events"
+        },
+        {
+            "duration": "Full Day",
+            "price": "Starting from Rp 500k",
+            "description": "Complete day accompaniment service"
+        }
+    ],
+    "additionalFees": [
+        {
+            "service": "Transportation",
+            "fee": "Rp 50k - 100k",
+            "description": "Depending on distance and location"
+        },
+        {
+            "service": "Outfit Change",
+            "fee": "Rp 25k",
+            "description": "For events requiring specific dress code"
+        },
+        {
+            "service": "Overtime",
+            "fee": "Rp 50k/hour",
+            "description": "For services extending beyond agreed time"
+        }
+    ]
+}

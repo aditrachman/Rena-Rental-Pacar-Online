@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah",
+        "age": 23,
+        "photo": "/images/sarah.jpg",
+        "bio": "Friendly and outgoing companion. Perfect for social events and casual hangouts.",
+        "price": "200k",
+        "duration": "per day",
+        "rating": 4.8,
+        "reviews": 156,
+        "specialties": [
+            "Social Events",
+            "Dinner Dates",
+            "Shopping"
+        ],
+        "availability": "Available",
+        "category": "popular",
+        "joinDate": "2024-01-15",
+        "location": "Jakarta",
+        "languages": [
+            "Indonesian",
+            "English"
+        ],
+        "verified": true
+    },
+    {
+        "id": 2,
+        "name": "Maya",
+        "age": 25,
+        "photo": "/images/maya.jpg",
+        "bio": "Professional and elegant. Great for business events and formal occasions.",
+        "price": "250k",
+        "duration": "per day",
+        "rating": 4.9,
+        "reviews": 203,
+        "specialties": [
+            "Business Events",
+            "Formal Dinners",
+            "Networking"
+        ],
+        "availability": "Available",
+        "category": "popular",
+        "joinDate": "2023-11-20",
+        "location": "Jakarta",
+        "languages": [
+            "Indonesian",
+            "English",
+            "Mandarin"
+        ],
+        "verified": true
+    },
+    {
+        "id": 3,
+        "name": "Luna",
+        "age": 22,
+        "photo": "/images/luna.jpg",
+        "bio": "Creative and fun-loving. Perfect for adventures and creative activities.",
+        "price": "180k",
+        "duration": "per day",
+        "rating": 4.7,
+        "reviews": 89,
+        "specialties": [
+            "Adventures",
+            "Art Events",
+            "Casual Dates"
+        ],
+        "availability": "Busy",
+        "category": "new",
+        "joinDate": "2024-08-10",
+        "location": "Bandung",
+        "languages": [
+            "Indonesian",
+            "English"
+        ],
+        "verified": true
+    },
+    {
+        "id": 4,
+        "name": "Kira",
+        "age": 24,
+        "photo": "/images/kira.jpg",
+        "bio": "Sophisticated and charming. Specializes in high-end events and VIP occasions.",
+        "price": "300k",
+        "duration": "per day",
+        "rating": 4.9,
+        "reviews": 127,
+        "specialties": [
+            "VIP Events",
+            "Gala Dinners",
+            "Corporate"
+        ],
+        "availability": "Available",
+        "category": "premium",
+        "joinDate": "2023-09-05",
+        "location": "Jakarta",
+        "languages": [
+            "Indonesian",
+            "English",
+            "Japanese"
+        ],
+        "verified": true
+    },
+    {
+        "id": 5,
+        "name": "Aria",
+        "age": 21,
+        "photo": "/images/aria.jpg",
+        "bio": "Young and energetic. Perfect companion for parties and fun activities.",
+        "price": "150k",
+        "duration": "per day",
+        "rating": 4.6,
+        "reviews": 45,
+        "specialties": [
+            "Parties",
+            "Concerts",
+            "Youth Events"
+        ],
+        "availability": "Available",
+        "category": "new",
+        "joinDate": "2024-09-01",
+        "location": "Surabaya",
+        "languages": [
+            "Indonesian"
+        ],
+        "verified": true
+    },
+    {
+        "id": 6,
+        "name": "Bella",
+        "age": 26,
+        "photo": "/images/bella.jpg",
+        "bio": "Experienced and professional. Your go-to companion for any occasion.",
+        "price": "220k",
+        "duration": "per day",
+        "rating": 4.8,
+        "reviews": 178,
+        "specialties": [
+            "Weddings",
+            "Family Events",
+            "Travel"
+        ],
+        "availability": "Available",
+        "category": "popular",
+        "joinDate": "2023-06-12",
+        "location": "Jakarta",
+        "languages": [
+            "Indonesian",
+            "English"
+        ],
+        "verified": true
+    },
+    {
+        "id": 7,
+        "name": "Celine",
+        "age": 23,
+        "photo": "/images/celine.jpg",
+        "bio": "Artistic and cultured. Great for museum visits and cultural events.",
+        "price": "190k",
+        "duration": "per day",
+        "rating": 4.7,
+        "reviews": 67,
+        "specialties": [
+            "Museums",
+            "Art Galleries",
+            "Cultural Events"
+        ],
+        "availability": "Busy",
+        "category": "new",
+        "joinDate": "2024-07-20",
+        "location": "Yogyakarta",
+        "languages": [
+            "Indonesian",
+            "English",
+            "French"
+        ],
+        "verified": true
+    },
+    {
+        "id": 8,
+        "name": "Diana",
+        "age": 27,
+        "photo": "/images/diana.jpg",
+        "bio": "Mature and reliable. Perfect for business trips and professional events.",
+        "price": "280k",
+        "duration": "per day",
+        "rating": 4.9,
+        "reviews": 234,
+        "specialties": [
+            "Business Travel",
+            "Conferences",
+            "Executive Events"
+        ],
+        "availability": "Available",
+        "category": "premium",
+        "joinDate": "2023-03-15",
+        "location": "Jakarta",
+        "languages": [
+            "Indonesian",
+            "English",
+            "German"
+        ],
+        "verified": true
+    }
+]
