@@ -2,7 +2,6 @@
 
 > Platform sewa pacar terpercaya #1 di Indonesia! Cari pacar cantik buat acara penting? Rena solusinya! 😍
 
-![Rena Banner](https://via.placeholder.com/800x400/ec4899/ffffff?text=Rena+-+Sewa+Pacar+Online+Terbaik)
 
 ## 🌟 Kenapa Pilih Rena?
 
